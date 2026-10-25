@@ -9,10 +9,10 @@ LTS (Long-Term Support) – A version maintained and hosted on GitHub.
 Stable – The most recent version within the LTS category.
 - This tag is assigned to the latest available LTS release.
 
-Newest – The version publicly available on Google Play.
+Newest
 - Optimized for modern, up-to-date devices.
 
-Beta – A version available for public testing on Google Play.
+Beta
 - Includes the latest features, but may not yet be fully stable.
 
 
