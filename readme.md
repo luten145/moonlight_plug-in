@@ -1,5 +1,4 @@
-# Moonlight-Lutenpack
-
+# Moonlight Plugin
 ##Version Guide
 
 Legacy – A version that is no longer supported.
@@ -21,7 +20,7 @@ Beta – A version available for public testing on Google Play.
 | ------- | -------- | ------- | -------- |
 | 0.3.3.X | 0.3.3.10 | 0.3.3.10 | 0.3.4.X |
 
-### Lutenpack-Moonlight
+### Moonlight Plugin
 
 |  VersionName  | VersionCode | Status   | Main Version |
 | ------ | -------: | ------ | ------------- |
